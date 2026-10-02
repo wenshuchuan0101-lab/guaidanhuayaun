@@ -1,0 +1,271 @@
+[
+  {
+    "file": "0cdac62b-e8d8-410d-8e8d-274bac428abb.png",
+    "status": "downloaded",
+    "error": "Exception setting \"task_id\": \"The property 'task_id' cannot be found on this object. Verify that the property exists and can be set.\"",
+    "task_id": "22985138-92c3-4c22-a9a5-d07e4834d960"
+  },
+  {
+    "file": "111253c7-729d-41ad-9422-2cdb9ee2c69c.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "b5d7ffa9-e356-45e7-b0f3-c3520fbea011",
+    "image_token": "2cd6e015-b821-409e-a445-a18155f71ca8"
+  },
+  {
+    "file": "13c14f4f-fab8-4d5a-9b14-d25a2a3d95b4.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "b62b1914-6fd3-4b35-9f3b-5c9b9427fd10",
+    "image_token": "bb30a685-41e9-4564-a13b-27f9253ba4b1"
+  },
+  {
+    "file": "13ee1686-f136-416e-ad49-ee4ccca48aa4.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "5398cfc0-23f0-40df-ba2d-6ea1a2cddf57",
+    "image_token": "0f1dc2ea-13a3-4604-9e2e-9344621e6f4f"
+  },
+  {
+    "file": "19ac0815-1387-4e91-9d38-543ed762f3e2.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "2c170116-6cf1-4c85-b1fd-996700e3146b",
+    "image_token": "484e051f-8853-42c5-8e26-524364b5fbee"
+  },
+  {
+    "file": "1ea1bad1-dde5-4668-802c-7ea0eddc69d4.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "85a66ca1-e664-48e7-ab87-1d70706f8a3c",
+    "image_token": "f4f5797d-9250-40c7-b7fe-f86d2a08b9f6"
+  },
+  {
+    "file": "1f51a72a-522a-4c1a-bc19-19ba60a5ff77.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "2ed96038-9e91-418f-a5cb-c269b6861fe8",
+    "image_token": "08977a50-51c2-40b1-bafe-0a763a649932"
+  },
+  {
+    "file": "25ecb4b4-6b6a-472d-ba67-f2f3f2db74af.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "04878b9b-861c-4c59-b1bb-eccc0092b45d",
+    "image_token": "c73c5d9a-06cb-4e00-8a93-7a3304e30e19"
+  },
+  {
+    "file": "26f8fa6b-33ee-42b8-80a9-f16c1d3c28aa.png",
+    "task_id": "bc253155-7b66-46df-8b99-faa4e0c2d324",
+    "image_token": "5c5c9c18-2edc-438c-8e1c-11b84c5dec42",
+    "status": "downloaded",
+    "submitted": "2026-09-24T09:49:11.2323936+08:00",
+    "asset": "D:\\怪诞花园模型\\26f8fa6b-33ee-42b8-80a9-f16c1d3c28aa.glb"
+  },
+  {
+    "file": "2a61ea7e-5c44-4ece-b780-69c741790972.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "6fe25df9-e2d1-45d8-a6f9-e7e13a7f5cad",
+    "image_token": "edef43c5-1ea1-48c8-8358-132d92f92c43"
+  },
+  {
+    "file": "2d5d85a6-2b9b-407b-b314-1f56207ccea0.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "f8f6ad6c-542c-46e1-8238-6d9ba8692d6f",
+    "image_token": "852c5420-aa92-4bb8-9eca-5c7a1817658d"
+  },
+  {
+    "file": "2dc85a08-f23d-40b4-bf9e-b7e0b2d21ad0.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "dd45334e-8d6e-4be2-a1ab-a4a8d4d48289",
+    "image_token": "4eee1ab3-94b4-4399-a7b9-5f56b8313550"
+  },
+  {
+    "file": "36bc36e2-229c-4633-a31e-8d0d4ff0c1b5.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "7599eec4-ab01-4b09-957d-29db6b02f090",
+    "image_token": "e7484047-4a79-4c05-8118-421f36941622"
+  },
+  {
+    "file": "3abfe574-7095-4cb7-8120-947ce413ef5a.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "94f5305c-f50a-4676-a40d-4c23848c5853",
+    "image_token": "9f9137cb-0617-456e-87fc-ec6460dad155"
+  },
+  {
+    "file": "40b0a078-1c7b-4138-a562-74b8ef02fbca.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "5dc496fc-e5b9-4002-adf4-5ed4a170ee93",
+    "image_token": "73d84e9f-91e7-4253-b2b2-fd7560275443"
+  },
+  {
+    "file": "42c31ec2-d399-479d-9b83-74c3702e3a1f.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "f071dbe2-2665-425b-85e9-4e659d3137a2",
+    "image_token": "d17aa225-fae1-4f18-bead-fa59adc528f8"
+  },
+  {
+    "file": "508013b3-dd3f-490e-8d54-65bafb9dc3df.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "ac5fd269-0273-456a-a49d-d30b56eaf4dd",
+    "image_token": "8f469bdd-0e31-4017-bd86-00038c239bd2"
+  },
+  {
+    "file": "53f03ece-63e7-4d5e-a9bb-b098bcc3d871.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "8dc523f1-4aa6-428b-a77c-44249ed7a67a",
+    "image_token": "44e0ccb5-6e47-4aea-ab61-b8eb756e9385"
+  },
+  {
+    "file": "6dd2d661-d343-40ca-adf3-5e3b4e04c3f0.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "534e09f7-f607-442f-9b31-0a7fbf078be9",
+    "image_token": "48bcc19f-0db5-458b-b46d-1a19f1201583"
+  },
+  {
+    "file": "7613ac02-a087-46b7-89a2-05532656d9b8.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "cc63ca84-f428-40c1-afef-9e09c33634a2",
+    "image_token": "a1e6af25-d02d-457e-8fc8-39e3fca1bd5e"
+  },
+  {
+    "file": "7ee1a78e-fb27-49e2-801e-582812fb4e1a.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "50a1f5a0-9dab-496f-9fd7-ff705435f62b",
+    "image_token": "b37bab99-65cb-43a5-b2f4-300ebeef8ba2"
+  },
+  {
+    "file": "7f528860-524d-4d08-927e-07a3dbbd37c0.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "eca19f68-2f1d-46cd-95bf-6da9bc41d47a",
+    "image_token": "29d0056f-077f-4410-b4e3-2430bd6d4acd"
+  },
+  {
+    "file": "7f8d39ec-0240-4505-94a8-e1aa5b8dc6d0.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "1711af7b-db6b-4d5d-a242-919ccf0bb3b0",
+    "image_token": "bebda07d-edf9-4723-97d3-b8445e0a3627"
+  },
+  {
+    "file": "82485ba9-548e-420e-8868-d6847e91a8ba.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "318101d7-be0d-4075-900d-3a9aad715657",
+    "image_token": "7db53d35-c26a-4d5c-ad0f-7f75a641f4da"
+  },
+  {
+    "file": "97c5f0ae-8cd1-4065-8e0d-82e5e9aa214f.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "0dd7c211-0d44-44d3-8f66-8364c86fa630",
+    "image_token": "d323a7f1-45d9-4a92-b119-7a3236ece324"
+  },
+  {
+    "file": "9ac99f50-da8f-48c2-8ced-03f9b713498e.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "d100f01e-d777-4e51-8862-002a2bd419a7",
+    "image_token": "80a83b6a-76d5-43ce-bec8-6e5e73aa87b3"
+  },
+  {
+    "file": "ac3c7a8c-f700-4c83-bafc-381817f4e4cf.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "9c098e16-da5e-49dd-b4b2-836c5bae828e",
+    "image_token": "0619c216-a0b7-4eb9-9c3b-82834383e3cf"
+  },
+  {
+    "file": "b4748118-cf54-4c9b-9e0d-0fff9157a99c.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "a4a7728d-9afe-4a60-9e12-c42ba1401720",
+    "image_token": "d74bf7f3-dfe4-42cd-afaa-da00579ef7ff"
+  },
+  {
+    "file": "b8ee7b16-1a51-4240-a5d3-b0d0b9184e76.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "2c29f4e4-6ab5-43b6-8967-7f1d1ee22a90",
+    "image_token": "18028e71-856e-46e7-b2fd-6c1f9537b1ab"
+  },
+  {
+    "file": "b987dead-267f-445b-8fae-b3ebb7819209.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "cf7af45e-a712-424e-8170-b8ea2a009457",
+    "image_token": "5f85f46a-e320-4da1-8dec-17873f44e04a"
+  },
+  {
+    "file": "c0409f66-1bdf-4718-abfc-b5f92a178968.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "ad122197-2f2d-4152-86a1-b7bffe8f23ab",
+    "image_token": "72a4fa46-dbe3-4e0c-ba06-ce52b0ece14c"
+  },
+  {
+    "file": "c8741332-d70b-4db7-b268-8170e50fe0cc.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "792d319a-94f9-4899-a9a8-cd8830ae2195",
+    "image_token": "8211803a-a2e2-4d85-8f26-fb62ea31bbdf"
+  },
+  {
+    "file": "ce271978-4da3-4e20-a7f7-499e1ddef582.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "1bdd76b5-b86f-4e6c-b9b2-269ef81ae291",
+    "image_token": "429ef0f4-6848-42ad-a46b-09f67951211f"
+  },
+  {
+    "file": "d24b1c65-46eb-43c7-9913-d800c809bf6b.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "8b7c48c8-2348-44ec-9e5e-e2fae5cd6821",
+    "image_token": "9c1ab88f-443e-448c-be83-6ea6c8a640b3"
+  },
+  {
+    "file": "d5a3719d-0baf-492e-811a-8a8aacf51fdf.png",
+    "task_id": "91828d31-5701-4df1-8276-fb115588f9b6",
+    "image_token": "832ad7a4-d86f-4609-b0b3-19dbbc9d0da7",
+    "status": "downloaded",
+    "submitted": "2026-09-24T09:52:16.7410068+08:00",
+    "asset": "D:\\怪诞花园模型\\d5a3719d-0baf-492e-811a-8a8aacf51fdf.glb"
+  },
+  {
+    "file": "de301104-669d-4f30-8888-33decf00c91f.png",
+    "task_id": "176fdf66-87b8-4301-909c-95d433f9c2b0",
+    "image_token": "4591a91d-36ba-4011-943d-0f6b07b17b8d",
+    "status": "downloaded",
+    "submitted": "2026-09-24T09:52:23.1450323+08:00",
+    "asset": "D:\\怪诞花园模型\\de301104-669d-4f30-8888-33decf00c91f.glb"
+  },
+  {
+    "file": "e04b74bb-c962-4e3c-a377-b81715326203.png",
+    "status": "downloaded",
+    "error": null,
+    "task_id": "f79096bf-a12c-4a42-8275-35b89aaeb131",
+    "image_token": "de82b76b-92b9-4aca-8389-bf92daf55138"
+  },
+  {
+    "file": "f30c1c88-4e36-4bc5-8f56-c13e82fd280b.png",
+    "task_id": "dcb60669-93c5-465a-90a0-ca156bcd8493",
+    "image_token": "98d50693-ed9f-4995-8172-e3e58e9a20bc",
+    "status": "downloaded",
+    "submitted": "2026-09-24T09:52:36.024412+08:00",
+    "asset": "D:\\怪诞花园模型\\f30c1c88-4e36-4bc5-8f56-c13e82fd280b.glb"
+  }
+]
